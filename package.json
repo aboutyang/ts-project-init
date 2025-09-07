@@ -1,11 +1,11 @@
 {
-  "name": "ts-template-vscode",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "TypeScript project template for vscode",
-  "main": "src/index.ts",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "type": "module",
   "scripts": {
-    "build": "rm -rf dist && tsc --build",
+    "build": "rm -rf dist && tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .ts .",
     "lint:fix": "eslint --fix --ext .ts .",
