@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "chakrounanas.turbo-console-log",
+    "gruntfuggly.todo-tree"
+  ]
+}
+
